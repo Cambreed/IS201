@@ -1,0 +1,31 @@
+.cursive {
+    font-family: cursive;
+}
+
+.blue {
+    color: lightblue;
+}
+
+.resumelist {
+    font-weight: bold;
+    font-style: normal;
+}
+ 
+.underline {text-decoration: underline;}
+ 
+.bold {font-weight: bold;}
+
+.bulletpoint {
+    font-weight: normal;
+    font-style: italic;
+    color: goldenrod;
+}
+
+.anchors {
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+.italic {
+    font-style: italic;
+}
